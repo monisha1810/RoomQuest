@@ -86,10 +86,3 @@ http://localhost:3000
 * Advanced filtering options
 * Reviews and ratings
 
-## Author
-
-Viswa Vinothini
-
-## License
-
-This project is developed for educational and academic purposes.
